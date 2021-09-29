@@ -2,7 +2,7 @@
 
 Currently a student at 42 Paris - a computer engineering school with a program based 100% on peer-to-peer learning. I am a fast learner, hardworking, and used to adapting to different working environments. I am a team player, a self-starter, and passionate about coding. I am particularly interested in backend development, AI, and Machine learning, but am open to discovering other fields of knowledge. I am looking for a freelance project or a full-time job.
 
-## Technical skills 👨‍💻
+## Technical skills 💻
 
 My primary coding language is Python. I am experienced with JavaScript, C, and PHP. I also use Pandas and NumPy, Docker, SQL, and Shell.
 
