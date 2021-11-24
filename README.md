@@ -1,6 +1,6 @@
-# Hello 🌍!
+# #OpenToWork!
 
-Currently a student at 42 Paris - a computer engineering school with a program based 100% on peer-to-peer learning. I am a fast learner, hardworking, and used to adapting to different working environments. I am a team player, a self-starter, and passionate about coding. I am particularly interested in backend development, AI, and Machine learning, but am open to discovering other fields of knowledge. **I am looking for a freelance project or a full-time job.**
+I am a software engineer with an interest in backend development, AI, and Machine learning. I am a fast learner, hardworking, and used to adapting to different working environments. I am a team player, a self-starter, and passionate about coding. Currently, I am a part-time student at 42 Paris - a computer engineering university renowned for its revolutionary pedagogy. **I am looking for a freelance project or a full-time job.**
 
 ## Technical skills 💻
 
