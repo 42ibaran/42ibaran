@@ -8,6 +8,13 @@ My primary coding language is **Python**. I am experienced with **JavaScript, C,
 
 ## Employment history 💼
 
+### Freelance Software Engineer
+##### September 2021 - Present
+
+- API migration: migrated customer's API from using ClickHouse to PostgreSQL.
+- Back-end development: created multiple new API endpoints, including unit testing and further maintenance.
+- Data analysis: identified new strategic directions for the company's research in Ethereum ERC-20 tokens and provided valuable insight into important contracts and accounts.
+
 ### R&D Software Engineer and Intern at [DataDome](https://datadome.co/), Paris
 ##### November 2019 – December 2020
 
