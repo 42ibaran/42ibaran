@@ -1,6 +1,6 @@
 # #OpenToWork!
 
-I am a software engineer with an interest in backend development, AI, and Machine learning. I am a fast learner, hardworking, and used to adapting to different working environments. I am a team player, a self-starter, and passionate about coding. Currently, I am a part-time student at 42 Paris - a computer engineering university renowned for its revolutionary pedagogy. **I am looking for a freelance project or a full-time job.**
+I am a skilled software engineer with 2 years of professional experience, specializing in Backend development, Machine Learning, and Automation. My skill set includes Python, SQL and databases, APIs, Docker, and GCP. I am always ready to take on new challenges, which push me to learn continuously. I enjoy being a part of a passionate team while staying autonomous and self-sufficient. **Currently, I am looking for a freelance mission or a permanent position.**
 
 ## Technical skills 💻
 
@@ -11,20 +11,27 @@ My primary coding language is **Python**. I am experienced with **JavaScript, C,
 ### Freelance Software Engineer
 ##### September 2021 - Present
 
-- API migration: migrated customer's API from using ClickHouse to PostgreSQL.
-- Back-end development: created multiple new API endpoints, including unit testing and further maintenance.
-- Data analysis: identified new strategic directions for the company's research in Ethereum ERC-20 tokens and provided valuable insight into important contracts and accounts.
+- Migrated client’s (Brandquad) API from ClickHouse to PostgreSQL and developed multiple new API endpoints with comprehensive unit testing and maintenance;
+- For another client (Data Revenue), I identified new strategic directions for further research in Ethereum ERC-20 tokens and provided valuable insight into important contracts and accounts.
 
 ### R&D Software Engineer and Intern at [DataDome](https://datadome.co/), Paris
 ##### November 2019 – December 2020
 
-I created 2 new customer-side modules and improved multiple others. I also helped to improve back-office tools used by other teams, created an integration between the tech team’s agile framework and CRM software to facilitate work of the customer support team, wrote multiple monitoring scripts, and sometimes worked with the data analysis team to analyze anomalies and improve bot detection.
+- Created, maintained, and improved modules for customer-side integration;
+- Automated the CI/CD process of releasing new modules;
+- Collaborated with the data analysis team to examine anomalies in bot detection and implement improvements;
+- Partnered with the dashboard team to develop comprehensive web tools to support the operations of other teams;
+- Developed scripts to systematically monitor the efficiency of bot detection and identify anomalies.
 
 ## Education 📖
-### 42, Paris
+### École 42, Paris
 ##### November 2018 – Present
 
-Pedagogical program at 42 is practice oriented, and student's progress depends on qantity and qauality of completed projects. Since I joined 42 in 2018, I have completed 19 projects with an average score of 113%, including a PHP boot camp and an 8-months internship. Here are some of my school projects:
+- Completed a total of 20 projects with an average score of 113% (that’s right), including a web development boot camp and an 8-months internship;
+- Was one of the first in my school entry to complete the requirements for starting an internship, in less than one year, six months before the deadline;
+- Managed multiple group projects, and participated in the mandatory continuous peer code reviews as a part of the curriculum.
+
+Pedagogical program at 42 is practice oriented, and student's progress depends on qantity and qauality of completed projects. Here are some of my school projects:
 
 - [DSLR](https://github.com/42ibaran/dslr):
 Machine Learning model for multinomial classification using logistic regression with gradient descent.
@@ -35,8 +42,8 @@ Machine Learning model for predicting car price based on its mileage using linea
 - [Computor V1](https://github.com/42ibaran/computor_v1):
 Program for solving polynomial equations.
 
-## Extra-curricular activities 👻
-### Hackathon Born2hack
-##### May 2019
+## Courses 
+### Machine Learning Specialization by DeepLearning.AI
+##### March 2023
 
-Among 16 groups, our winner project Four42 had the goal of improving the day-to-day life of 42 students, by introducing a smart kitchen management tool. The hackathon was dedicated to [NOC42](http://noc.42.fr/le-projet-2/) - project to extend 42 into campus and provide synergy between students and residents of the neighborhood
+This 3-course specialization in Machine Learning equipped me with the necessary skills to build and train various supervised and unsupervised Machine Learning models, including linear regression and logistic regression, decision trees, neural networks. I also learned best practices for Machine Learning development in practical applications.
