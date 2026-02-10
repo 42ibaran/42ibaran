@@ -27,6 +27,5 @@ Program for solving polynomial equations.
 
 ## Courses 
 ### Machine Learning Specialization by DeepLearning.AI
-##### March 2023
 
 This 3-course specialization in Machine Learning equipped me with the necessary skills to build and train various supervised and unsupervised Machine Learning models, including linear regression and logistic regression, decision trees, neural networks. I also learned best practices for Machine Learning development in practical applications.
