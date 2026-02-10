@@ -10,6 +10,9 @@ My primary coding language is **Python**. I am experienced with **JavaScript, C,
 
 Pedagogical program at 42 is practice oriented, and student's progress depends on qantity and qauality of completed projects. Here are some of my school projects:
 
+- [multilayer_perceptron](https://github.com/42ibaran/multilayer_perceptron)
+Neural Network implementation applied for cancer detection
+
 - [total_perspective_vortex](https://github.com/42ibaran/total_perspective_vortex)
 EEG-based BCI classifier able to distinguish between motor/imagery tasks.
 
