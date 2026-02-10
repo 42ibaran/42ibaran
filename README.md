@@ -6,7 +6,7 @@ I am a technology enthusiast with 2 years of professional experience in backend 
 
 My primary coding language is **Python**. I am experienced with **JavaScript, C, and PHP**. I also use **Pandas and NumPy, Docker, SQL, and Shell**.
 
-## Scool projects
+## School projects
 
 Pedagogical program at 42 is practice oriented, and student's progress depends on qantity and qauality of completed projects. Here are some of my school projects:
 
