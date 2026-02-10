@@ -2,7 +2,7 @@
 
 I am a technology enthusiast with 2 years of professional experience in backend development and automation, now advancing my education with a focus on data and machine learning. I see technology as a tool for transformation and aim to use my skills and agility in projects that drive meaningful change in areas like sustainability, health care, education, and community. **Currently, I am looking for a freelance mission or a permanent position.**
 
-## Technical skills 💻
+## Technical skills
 
 My primary coding language is **Python**. I am experienced with **JavaScript, C, and PHP**. I also use **Pandas and NumPy, Docker, SQL, and Shell**.
 
